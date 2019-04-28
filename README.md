@@ -1,2 +1,2 @@
-# TP_DesarrolloWeb_Tindora
+# TP_DesarrolloWeb_DoReMi
 Tindora
