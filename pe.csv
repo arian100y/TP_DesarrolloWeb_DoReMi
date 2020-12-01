@@ -1,0 +1,30 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Lima,-12.0500,-77.0333,Peru,PE,Lima,primary,9848000,8894000
+Callao,-12.0611,-77.1333,Peru,PE,Callao,admin,1129854,1129854
+Arequipa,-16.3988,-71.5369,Peru,PE,Arequipa,admin,1008290,1008290
+Trujillo,-8.1119,-79.0289,Peru,PE,La Libertad,admin,919899,919899
+Chiclayo,-6.7630,-79.8366,Peru,PE,Lambayeque,admin,552508,552508
+Chimbote,-9.0745,-78.5936,Peru,PE,Ancash,,497875,497875
+Piura,-5.2008,-80.6253,Peru,PE,Piura,admin,473025,473025
+Cusco,-13.5183,-71.9781,Peru,PE,Cusco,admin,428450,428450
+Huancayo,-12.0667,-75.2167,Peru,PE,Junín,admin,378203,378203
+Iquitos,-3.7333,-73.2500,Peru,PE,Loreto,admin,377609,377609
+Pucallpa,-8.3833,-74.5500,Peru,PE,Ucayali,admin,326040,326040
+Juliaca,-15.4908,-70.1269,Peru,PE,Puno,,291189,291189
+Tacna,-18.0556,-70.2483,Peru,PE,Tacna,admin,286240,286240
+Ica,-14.0667,-75.7333,Peru,PE,Ica,admin,282407,282407
+Cajamarca,-7.1644,-78.5106,Peru,PE,Cajamarca,admin,201329,201329
+Huacho,-11.1083,-77.6083,Peru,PE,Lima,admin,200585,200585
+Huánuco,-9.9294,-76.2397,Peru,PE,Huánuco,admin,196627,196627
+Ayacucho,-13.1631,-74.2244,Peru,PE,Ayacucho,admin,180766,180766
+Puno,-15.8433,-70.0236,Peru,PE,Puno,admin,128637,128637
+Huaraz,-9.5333,-77.5333,Peru,PE,Ancash,admin,118836,118836
+Tumbes,-3.5667,-80.4500,Peru,PE,Tumbes,admin,96946,96946
+Puerto Maldonado,-12.6000,-69.1833,Peru,PE,Madre de Dios,admin,85024,85024
+Abancay,-13.6333,-72.8833,Peru,PE,Apurímac,admin,72277,72277
+Moquegua,-17.2000,-70.9333,Peru,PE,Moquegua,admin,69882,69882
+Cerro de Pasco,-10.6864,-76.2625,Peru,PE,Pasco,admin,58899,58899
+Moyobamba,-6.0333,-76.9667,Peru,PE,San Martín,admin,50073,50073
+Huancavelica,-12.7850,-74.9714,Peru,PE,Huancavelica,admin,49570,49570
+Chachapoyas,-6.2167,-77.8500,Peru,PE,Amazonas,admin,32026,32026
+Contamana,-7.3333,-75.0167,Peru,PE,Loreto,minor,18921,13885
